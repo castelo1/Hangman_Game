@@ -6,16 +6,16 @@ It was created with the intention of using and consolidating the basic knowledge
 
 <h3>Among the main knowledge used are</h3>
 
-- <b>Variables and assignments</b>
-- <b>Data types and structures</b>
-- <b>Control and repetition structures</b>
-- <b>Functions</b>
-- <b>Object oriented programming</b>
-- <b>File and database manipulation</b>
+- Variables and assignments
+- Data types and structures
+- Control and repetition structures
+- Functions
+- Object oriented programming
+- File and database manipulation
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- Python
 
 <h2>Program walk-through:</h2>
 
