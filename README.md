@@ -21,19 +21,19 @@ It was created with the intention of using and consolidating the basic knowledge
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/castelo1/Hangman_Game/blob/main/Screenshots/Screen%20Shot%202023-03-02%20at%2011.51.06.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the first guess:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/castelo1/Hangman_Game/blob/main/Screenshots/Screen%20Shot%202023-03-02%20at%2011.54.20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 If you win: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/castelo1/Hangman_Game/blob/main/Screenshots/Screen%20Shot%202023-03-02%20at%2011.56.44.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 If you lose:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/castelo1/Hangman_Game/blob/main/Screenshots/Screen%20Shot%202023-03-02%20at%2011.58.29.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
